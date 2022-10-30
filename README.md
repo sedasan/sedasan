@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sedasan
 - 👀 I’m interested in web design,uı & ux design
-- 🌱 I’m currently learning figma, html, css
+- 🌱 I’m currently learning  html, css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me snsedasan@gmail.com
 
